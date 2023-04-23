@@ -13,7 +13,12 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          TZ: Asia/Shanghai
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
-          SHOW_LOC_CHART: False
+          SHOW_COMMIT: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
