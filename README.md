@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2024/10/22 18:40:51 UTC
+```text
+💬 Programming Languages: 
+Lua                      12 mins             █████████████████████░░░░   85.25 % 
+textmate                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+
+🔥 Editors: 
+IntelliJ IDEA            14 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2024/10/23 18:40:36 UTC
 <!--END_SECTION:waka-->
