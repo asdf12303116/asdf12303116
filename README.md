@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Lua                      12 mins             █████████████████████░░░░   85.25 % 
-textmate                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024/10/29 18:41:35 UTC
+ Last Updated on 2024/10/30 18:41:27 UTC
 <!--END_SECTION:waka-->
