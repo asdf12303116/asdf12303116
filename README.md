@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              ████████████░░░░░░░░░░░░░   46.12 % 
+Text                     3 mins              ██████████░░░░░░░░░░░░░░░   39.68 % 
+INI                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024/11/28 18:42:02 UTC
+ Last Updated on 2024/11/29 18:41:41 UTC
 <!--END_SECTION:waka-->
