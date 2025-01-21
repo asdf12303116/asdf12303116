@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              ███████████████░░░░░░░░░░   60.52 % 
-INI                      0 secs              ██████████░░░░░░░░░░░░░░░   39.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/01/20 18:38:34 UTC
+ Last Updated on 2025/01/21 18:40:21 UTC
 <!--END_SECTION:waka-->
