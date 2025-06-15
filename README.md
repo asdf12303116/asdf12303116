@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C#                       57 mins             █████████████████████░░░░   83.00 % 
-XAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/06/14 18:43:10 UTC
+ Last Updated on 2025/06/15 18:42:56 UTC
 <!--END_SECTION:waka-->
