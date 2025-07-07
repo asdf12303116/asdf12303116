@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 1 min         ███████████████████████░░   92.05 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025/07/06 18:43:52 UTC
+ Last Updated on 2025/07/07 18:47:09 UTC
 <!--END_SECTION:waka-->
