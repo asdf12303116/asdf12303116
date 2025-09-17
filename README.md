@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2025/09/16 18:43:19 UTC
+```text
+💬 Programming Languages: 
+C#                       10 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Rider                    10 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2025/09/17 18:43:25 UTC
 <!--END_SECTION:waka-->
