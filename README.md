@@ -20,15 +20,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Jupyter                  5 mins              ███████████████████████░░   93.14 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/10/20 18:47:13 UTC
+ Last Updated on 2025/10/21 18:45:42 UTC
 <!--END_SECTION:waka-->
