@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JSON                     14 mins             ███████████████████░░░░░░   76.40 % 
-YAML                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    30 mins             ██████████░░░░░░░░░░░░░░░   40.68 % 
+JSON                     24 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/07/21 19:56:29 UTC
+ Last Updated on 2026/07/22 19:49:41 UTC
 <!--END_SECTION:waka-->
