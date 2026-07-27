@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2021%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -29,6 +31,29 @@ JSON                     11 mins             ███░░░░░░░░�
 VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 2026/07/26 19:40:36 UTC
+```text
+⏱ AI Coding Time: 30 mins (34.77%)
+
+✍️ 16 lines written by AI, 41 lines written by hand (28.07% AI-written)
+
+🔤 274,912 Input Tokens, 13,902 Output Tokens
+
+💵 $1.03 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 20 AI Prompts
+
+Deepseek                 16 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 28.07% of written lines came from AI
+📝 Concise Prompter — average 66 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 91.75% of changed lines were hand-edited
+```
+
+
+ Last Updated on 2026/07/27 19:59:31 UTC
 <!--END_SECTION:waka-->
