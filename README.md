@@ -16,27 +16,26 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2021%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    39 mins             ███████████░░░░░░░░░░░░░░   44.58 % 
-JavaScript               21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   33.93 % 
+YAML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (34.77%)
+⏱ AI Coding Time: 30 mins (26.46%)
 
-✍️ 16 lines written by AI, 41 lines written by hand (28.07% AI-written)
+✍️ 16 lines written by AI, 78 lines written by hand (17.02% AI-written)
 
 🔤 274,912 Input Tokens, 13,902 Output Tokens
 
@@ -48,12 +47,12 @@ Deepseek                 16 lines            ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.07% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 17.02% of written lines came from AI
 📝 Concise Prompter — average 66 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 91.75% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/07/27 19:59:31 UTC
+ Last Updated on 2026/07/28 19:56:44 UTC
 <!--END_SECTION:waka-->
