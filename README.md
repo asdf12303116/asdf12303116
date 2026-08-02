@@ -22,39 +22,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     56 mins             █████████████░░░░░░░░░░░░   52.90 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+YAML                     56 mins             ███████████████████░░░░░░   74.16 % 
+Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+TeX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (45.33%)
+⏱ AI Coding Time: 17 mins (23.53%)
 
-✍️ 16 lines written by AI, 42 lines written by hand (27.59% AI-written)
+✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
 
-🔤 359,717 Input Tokens, 19,540 Output Tokens
+🔤 84,805 Input Tokens, 5,638 Output Tokens
 
-💵 $1.37 Estimated AI Cost This Week
+💵 $0.34 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Deepseek                 16 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.59% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 25 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/01 19:39:16 UTC
+ Last Updated on 2026/08/02 19:39:32 UTC
 <!--END_SECTION:waka-->
