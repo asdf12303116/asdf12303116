@@ -22,39 +22,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Lua                      3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-Other                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Python                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    1 hr 39 mins        ██████████████████████░░░   89.70 % 
+TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (93.84%)
+⏱ AI Coding Time: 1 hr 39 mins (89.7%)
 
-✍️ 450 lines written by AI, 17 lines written by hand (96.36% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 3,311,859 Input Tokens, 519,608 Output Tokens
+🔤 72,495 Input Tokens, 33,692 Output Tokens
 
-💵 $432.46 Estimated AI Cost This Week
+💵 $9.17 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 91 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-Deepseek                 505 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.36% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 25.19% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 22 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/21 19:02:36 UTC
+ Last Updated on 2026/08/22 18:53:01 UTC
 <!--END_SECTION:waka-->
