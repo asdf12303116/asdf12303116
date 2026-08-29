@@ -22,35 +22,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   13 mins             █████████████████████████   100.00 % 
+Python                   14 mins             ████████████████░░░░░░░░░   65.49 % 
+TeX                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Lua                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (100.0%)
+⏱ AI Coding Time: 22 mins (100.0%)
 
 ✍️ 284 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 686,149 Input Tokens, 11,637 Output Tokens
+🔤 831,383 Input Tokens, 23,753 Output Tokens
 
-💵 $4.98 Estimated AI Cost This Week
+💵 $7.27 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 Deepseek                 288 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
+📝 Concise Prompter — average 19 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/28 02:13:11 UTC
+ Last Updated on 2026/08/29 01:47:51 UTC
 <!--END_SECTION:waka-->
