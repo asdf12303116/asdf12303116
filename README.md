@@ -22,38 +22,38 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   33 mins             ██████████████████░░░░░░░   73.25 % 
-TeX                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Python                   20 mins             ████████████████░░░░░░░░░   62.04 % 
+TeX                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (100.0%)
+⏱ AI Coding Time: 32 mins (100.0%)
 
-✍️ 313 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 29 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,016,356 Input Tokens, 39,587 Output Tokens
+🔤 330,207 Input Tokens, 27,950 Output Tokens
 
-💵 $20.54 Estimated AI Cost This Week
+💵 $15.56 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-Deepseek                 350 lines           █████████████████████████   100.00 % 
+Deepseek                 62 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 19 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/31 22:56:18 UTC
+ Last Updated on 2026/09/01 21:09:04 UTC
 <!--END_SECTION:waka-->
