@@ -22,18 +22,40 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 23 mins       ███████████████████░░░░░░   75.59 % 
+Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Opencode Cli             2 hrs 31 mins       ████████████████████░░░░░   80.07 % 
+VS Code                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 1 min (95.73%)
+
+✍️ 74 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,154,016 Input Tokens, 316,180 Output Tokens
+
+💵 $110.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 40 AI Prompts
+
+DeepSeek                 74 lines            █████████████████░░░░░░░░   66.67 % 
+Deepseek                 37 lines            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 40 prompts per session
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/13 00:51:24 UTC
+ Last Updated on 2026/10/13 22:56:19 UTC
 <!--END_SECTION:waka-->
