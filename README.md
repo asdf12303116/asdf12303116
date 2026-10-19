@@ -43,13 +43,12 @@ Antigravity CLI          18 mins             ░░░░░░░░░░░�
 
 🔤 16,189,335 Input Tokens, 2,946,553 Output Tokens
 
-💵 $1375.28 Estimated AI Cost This Week
+💵 $1372.30 Estimated AI Cost This Week
 
 🧠 35 AI Sessions, 272 AI Prompts
 
-DeepSeek                 18,025 lines        ████████████████████████░   97.13 % 
-Gemini                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Deepseek                 37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+DeepSeek                 18,025 lines        ████████████████████████░   97.32 % 
+Gemini                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -60,5 +59,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2026/10/18 20:54:44 UTC
+ Last Updated on 2026/10/19 22:29:43 UTC
 <!--END_SECTION:waka-->
