@@ -16,48 +16,48 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Markdown                 5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-JSON                     3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-JavaScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+TypeScript               6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Markdown                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-Opencode Cli             19 hrs 12 mins      ███████████████████░░░░░░   74.45 % 
-VS Code                  6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Opencode Cli             13 hrs 25 mins      ██████████████████░░░░░░░   73.91 % 
+VS Code                  4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 46 mins (92.13%)
+⏱ AI Coding Time: 16 hrs 44 mins (92.17%)
 
-✍️ 18,363 lines written by AI, 342 lines written by hand (98.17% AI-written)
+✍️ 12,501 lines written by AI, 275 lines written by hand (97.85% AI-written)
 
-🔤 16,370,829 Input Tokens, 2,831,817 Output Tokens
+🔤 11,128,895 Input Tokens, 2,017,131 Output Tokens
 
-💵 $1511.04 Estimated AI Cost This Week
+💵 $1183.52 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 247 AI Prompts
+🧠 28 AI Sessions, 184 AI Prompts
 
-DeepSeek                 18,306 lines        ████████████████████████░   97.36 % 
-Gemini                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+DeepSeek                 12,427 lines        ████████████████████████░   96.16 % 
+Gemini                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.17% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
+🤖 AI-Driven — 97.85% of written lines came from AI
+📝 Concise Prompter — average 107 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.9% of changed lines were hand-edited
+🚀 High AI Trust — 3.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/20 21:44:09 UTC
+ Last Updated on 2026/10/21 21:50:31 UTC
 <!--END_SECTION:waka-->
