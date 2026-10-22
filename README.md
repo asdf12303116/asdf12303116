@@ -22,42 +22,41 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Markdown                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+TypeScript               5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+Markdown                 2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 🔥 Editors: 
-Opencode Cli             13 hrs 25 mins      ██████████████████░░░░░░░   73.91 % 
-VS Code                  4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Opencode Cli             10 hrs 28 mins      ████████████████████░░░░░   78.02 % 
+VS Code                  2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 44 mins (92.17%)
+⏱ AI Coding Time: 12 hrs 34 mins (93.73%)
 
-✍️ 12,501 lines written by AI, 275 lines written by hand (97.85% AI-written)
+✍️ 10,175 lines written by AI, 275 lines written by hand (97.37% AI-written)
 
-🔤 11,128,895 Input Tokens, 2,017,131 Output Tokens
+🔤 6,978,743 Input Tokens, 1,454,005 Output Tokens
 
-💵 $1183.52 Estimated AI Cost This Week
+💵 $979.81 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 184 AI Prompts
+🧠 25 AI Sessions, 120 AI Prompts
 
-DeepSeek                 12,427 lines        ████████████████████████░   96.16 % 
-Gemini                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+DeepSeek                 10,521 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.85% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.6% of changed lines were hand-edited
+🤖 AI-Driven — 97.37% of written lines came from AI
+📝 Concise Prompter — average 125 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/21 21:50:31 UTC
+ Last Updated on 2026/10/22 21:45:53 UTC
 <!--END_SECTION:waka-->
