@@ -22,41 +22,40 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Other                    1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Go                       52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 44 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+YAML                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Go                       28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 46 mins       ████████████████████░░░░░   78.77 % 
-VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-OpenCode                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Opencode Cli             1 hr 30 mins        ███████████████░░░░░░░░░░   58.44 % 
+VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+OpenCode                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (96.62%)
+⏱ AI Coding Time: 1 hr 55 mins (74.74%)
 
-✍️ 1,438 lines written by AI, 261 lines written by hand (84.64% AI-written)
+✍️ 445 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,542,811 Input Tokens, 559,438 Output Tokens
+🔤 1,335,614 Input Tokens, 215,148 Output Tokens
 
-💵 $467.14 Estimated AI Cost This Week
+💵 $65.23 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 52 AI Prompts
+🧠 7 AI Sessions, 26 AI Prompts
 
-DeepSeek                 1,469 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 453 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.64% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 439 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 23.49% of changed lines were hand-edited
+🚀 High AI Trust — 10.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/26 22:46:25 UTC
+ Last Updated on 2026/10/27 22:26:09 UTC
 <!--END_SECTION:waka-->
