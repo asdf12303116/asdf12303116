@@ -16,26 +16,29 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2031%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-JSON                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JavaScript               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+JSON                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 4 mins        ████████████████░░░░░░░░░   62.23 % 
-VS Code                  1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.28 % 
-OpenCode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Opencode Cli             3 hrs 4 mins        █████████████░░░░░░░░░░░░   53.78 % 
+VS Code                  1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Harness                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+OpenCode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (76.79%)
+⏱ AI Coding Time: 4 hrs 34 mins (79.94%)
 
 ✍️ 2,414 lines written by AI, 189 lines written by hand (92.74% AI-written)
 
@@ -55,5 +58,5 @@ DeepSeek                 2,440 lines         ███████████�
 ```
 
 
- Last Updated on 2026/11/06 09:32:12 UTC
+ Last Updated on 2026/11/06 23:18:17 UTC
 <!--END_SECTION:waka-->
