@@ -22,23 +22,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Lua                      12 hrs 34 mins      ████████████████░░░░░░░░░   64.40 % 
-JavaScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Lua                      12 hrs 11 mins      ████████████████░░░░░░░░░   64.99 % 
+JavaScript               3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Harness                  18 hrs 27 mins      ████████████████████████░   94.48 % 
-VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Harness                  17 hrs 40 mins      ████████████████████████░   94.25 % 
+VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 35 mins (95.21%)
+⏱ AI Coding Time: 17 hrs 49 mins (95.01%)
 
 ✍️ 8,839 lines written by AI, 282 lines written by hand (96.91% AI-written)
 
@@ -58,5 +58,5 @@ DeepSeek                 9,813 lines         ███████████�
 ```
 
 
- Last Updated on 2026/11/12 23:42:42 UTC
+ Last Updated on 2026/11/13 23:43:34 UTC
 <!--END_SECTION:waka-->
