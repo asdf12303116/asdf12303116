@@ -16,30 +16,30 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Lua                      1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Other                    1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JavaScript               2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Markdown                 1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Lua                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Harness                  4 hrs 20 mins       ███████████████░░░░░░░░░░   60.47 % 
-Opencode Cli             2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
-OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Harness                  4 hrs 36 mins       ███████████████░░░░░░░░░░   61.89 % 
+Opencode Cli             2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
+OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 24 mins (100.0%)
 
-✍️ 4,882 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,806 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 4,503,907 Input Tokens, 585,956 Output Tokens
 
@@ -47,7 +47,7 @@ OpenCode                 1 min               ░░░░░░░░░░░�
 
 🧠 5 AI Sessions, 22 AI Prompts
 
-DeepSeek                 5,043 lines         █████████████████████████   100.00 % 
+DeepSeek                 5,202 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -57,5 +57,5 @@ DeepSeek                 5,043 lines         ███████████�
 ```
 
 
- Last Updated on 2026/11/15 22:59:59 UTC
+ Last Updated on 2026/11/17 01:54:28 UTC
 <!--END_SECTION:waka-->
