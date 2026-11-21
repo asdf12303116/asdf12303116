@@ -22,24 +22,24 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.31 % 
-Other                    1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.75 % 
-Go                       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Markdown                 1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+Other                    1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.54 % 
+YAML                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Go                       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 46 mins       ████████████████████░░░░░   78.04 % 
-Harness                  45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Opencode Cli             2 hrs 46 mins       █████████████████░░░░░░░░   67.28 % 
+Harness                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 33 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 7 mins (100.0%)
 
-✍️ 1,607 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,820 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 4,503,907 Input Tokens, 585,956 Output Tokens
 
@@ -47,7 +47,7 @@ OpenCode                 1 min               ░░░░░░░░░░░�
 
 🧠 5 AI Sessions, 22 AI Prompts
 
-DeepSeek                 2,001 lines         █████████████████████████   100.00 % 
+DeepSeek                 2,214 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -57,5 +57,5 @@ DeepSeek                 2,001 lines         ███████████�
 ```
 
 
- Last Updated on 2026/11/20 00:42:46 UTC
+ Last Updated on 2026/11/21 00:02:43 UTC
 <!--END_SECTION:waka-->
