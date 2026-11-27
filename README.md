@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 30 mins       █████████████░░░░░░░░░░░░   52.83 % 
-XML                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-PowerShell               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+C#                       5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
+C++                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+XML                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+C                        1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🔥 Editors: 
-Harness                  10 hrs 24 mins      █████████████████████████   99.87 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Harness                  15 hrs 14 mins      ████████████████████████░   96.88 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -40,5 +41,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/11/26 01:51:51 UTC
+ Last Updated on 2026/11/27 01:49:10 UTC
 <!--END_SECTION:waka-->
